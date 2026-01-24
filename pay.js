@@ -1,1 +1,0 @@
-alert("payed has beed not done secsessfully ")
