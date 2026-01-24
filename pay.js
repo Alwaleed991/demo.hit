@@ -1,1 +1,1 @@
-alert("payed has beed done secsessfully ")
+alert("payed has beed not done secsessfully ")
