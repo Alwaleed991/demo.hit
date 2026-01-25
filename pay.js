@@ -1,0 +1,1 @@
+alert("hello from our pay method")
